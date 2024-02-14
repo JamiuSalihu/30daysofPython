@@ -3,7 +3,7 @@
 Operators
 Different types of operators are:
 Arithmetic
-Relational (or) Comparision
+Relational (or) Comparison
 Equality
 Logical
 Bitwise
