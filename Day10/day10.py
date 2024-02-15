@@ -39,7 +39,7 @@ print(t2)
 t = (1,2,3,4,5,6,7,8,9,10)
 for i in t:
     if i % 2 == 0:
-        print(i, end='')
+        print(i, end=',')
 print('\n')
 
 # Write a program to generate and print another tuple whose values are odd numbers in the given tuple (1,2,3,4,5,6,7,8,9,10)
@@ -50,5 +50,5 @@ for i in t:
     if i % 2 == 1:
         l += [i]
         t1= tuple(l)
-        print(t1, end='')
+        print(t1, end=',')
 print('\n')
